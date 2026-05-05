@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+venv/
+env/
+.env
+data/raw/
+outputs/
+models/
+.git/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+*.ipynb
